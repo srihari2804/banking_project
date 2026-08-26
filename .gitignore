@@ -1,0 +1,16 @@
+# Java / Spring Boot
+target/
+.classpath
+.project
+.settings/
+
+# React
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
